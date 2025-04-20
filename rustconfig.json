@@ -595,6 +595,7 @@
             "staging": "Staging",
             "aux01": "Pre-Staging (aux01)",
             "aux02": "Up and Coming (aux02)",
+            "aux03": "Development (aux03)",
             "experimental": "Experimental"
         }
     },
