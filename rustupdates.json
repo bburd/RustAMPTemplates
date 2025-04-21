@@ -123,8 +123,8 @@
     {
         "UpdateStageName": "Carbon Download",
         "UpdateSourcePlatform": "Linux",
-        "UpdateSource": "GithubRelease",
-        "UpdateSourceArgs": "CarbonCommunity/Carbon/releases/tag/rustbeta_aux03_build",
+        "UpdateSource": "GithubPrerelease",
+        "UpdateSourceArgs": "CarbonCommunity/Carbon",
         "UpdateSourceData": "Carbon.Linux.Debug.tar.gz",
         "UpdateSourceTarget": "{{$FullBaseDir}}",
         "UnzipUpdateSource": true,
