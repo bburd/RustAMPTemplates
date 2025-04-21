@@ -125,7 +125,7 @@
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "GithubRelease",
         "UpdateSourceArgs": "CarbonCommunity/Carbon",
-        "UpdateSourceData": "Carbon.Linux.Release.tar.gz",
+        "UpdateSourceData": "Carbon.Linux.Debug.tar.gz",
         "UpdateSourceTarget": "{{$FullBaseDir}}",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": true,
