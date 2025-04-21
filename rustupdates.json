@@ -123,8 +123,8 @@
     {
         "UpdateStageName": "Carbon Download",
         "UpdateSourcePlatform": "Linux",
-        "UpdateSource": "GenericFile",
-        "UpdateSourceArgs": "https://github.com/CarbonCommunity/Carbon/releases/download/rustbeta_aux03_build/Carbon.Linux.Debug.tar.gz",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceArgs": "https://github.com/CarbonCommunity/Carbon/releases/download/rustbeta_aux03_build",
         "UpdateSourceData": "Carbon.Linux.Debug.tar.gz",
         "UpdateSourceTarget": "{{$FullBaseDir}}",
         "UnzipUpdateSource": true,
